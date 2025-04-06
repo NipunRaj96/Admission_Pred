@@ -1,4 +1,4 @@
-# Graduate Admission Prediction using Deep Learning
+# Graduate Admission Prediction
 
 ## 📌 Project Overview
 
